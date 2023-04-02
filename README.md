@@ -4,7 +4,7 @@
 ## Description
 
 A simple Sign-Up form for logging your credentials.
-The code is written with Node.js with express, request and bodeyParser modules. The design form is from a Bootstrap library.
+The code is written with Node.js with express, request and bodeyParser modules. The design form is from a Bootstrap library. It is linked with a mailchimp API.
 
 ## Installation
 
